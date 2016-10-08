@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "724432390240",
+    "project_id": "prof-banku"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724432390240:android:87efa4d0be298a21",
+        "android_client_info": {
+          "package_name": "profbanku.profbanku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724432390240-ou8ivjhqajfem54fqnm8nev8talki85t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "profbanku.profbanku",
+            "certificate_hash": "53F7A9D7F7F67896320228A7EDF39F3FAB1898D2"
+          }
+        },
+        {
+          "client_id": "724432390240-vrter9pafg6g8n5ig7vidkdu6mml54b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPpsbrRmSjZiq-PNZ-K4yAswvMTc4uioA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-85109432-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

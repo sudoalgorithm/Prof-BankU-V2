@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Prof BankU</string>
+    <string name="drawer_closed">BankU</string>
+    <string name="drawer_open">Home</string>
+    <string name="facebook_app_id">882053738593619</string>
+    <string name="fb_login_protocol_scheme">882053738593619</string>
+    <string name="ciandsi">CI &amp; SI</string>
+    <string name="dd">Direction &amp; Distance</string>
+    <string name="hcflcm">HCF &amp; LCM</string>
+    <string name="profitloss">Profit &amp; Loss</string>
+    <string name="ranking">Ranking &amp; Ordering</string>
+    <string name="ratio">Ratio &amp; Mixtures</string>
+    <string name="time">Time &amp; Work</string>
+    <string name="train">Train &amp; Platform</string>
+</resources>
